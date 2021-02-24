@@ -1,2 +1,27 @@
 # dependency-injection-ex
-Exemplos e estudos de injeÃ§Ã£o de dependencia
+
+Exemplos e estudos de injeções de dependencia.
+
+Annotation Spring:
+
+ - @SpringBootApplication
+ 
+ - @Controller
+ 
+ - @Repository
+ 
+ - @Service
+ 
+ - @Component
+
+ - @Configuration
+
+ - @Autowired
+
+ - @Bean
+ 
+ - @Primary
+ 
+ - @Qualifier
+ 
+ - @Value
